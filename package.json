@@ -1,0 +1,15 @@
+{
+  "name": "new-det",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "server"
+  ],
+  "scripts": {
+    "dev:sender": "cd packages/sender && cargo tauri dev",
+    "dev:receiver": "cd packages/receiver && cargo tauri dev",
+    "dev:server": "cd server && bun run ws_relay.ts",
+    "build:sender": "cd packages/sender && cargo tauri build",
+    "build:receiver": "cd packages/receiver && cargo tauri build"
+  }
+}

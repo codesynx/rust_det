@@ -1,0 +1,7 @@
+{
+  "name": "@new-det/server",
+  "private": true,
+  "scripts": {
+    "start": "bun run ws_relay.ts"
+  }
+}

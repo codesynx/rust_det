@@ -1,0 +1,38 @@
+# MediaMTX config for DET
+# Accepts SRT publish from child's PC, allows SRT subscribe from parent's PC
+
+# Logging
+logLevel: info
+logDestinations: [stdout]
+
+# API for monitoring
+api: yes
+apiAddress: :9997
+
+# SRT server - primary transport
+srt: yes
+srtAddress: :8890
+
+# RTSP for debugging
+rtsp: yes
+rtspAddress: :8554
+
+# Disable unused protocols
+rtmp: no
+hls: no
+webrtc: no
+
+# Path defaults - allow any stream name
+pathDefaults:
+  # Anyone can publish and read (lock down in production with auth)
+  publishUser: ""
+  publishPass: ""
+  readUser: ""
+  readPass: ""
+
+  # Source settings
+  sourceOnDemand: no
+
+# Paths - wildcard allows any room name
+paths:
+  all_others:

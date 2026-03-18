@@ -1,0 +1,5 @@
+/Users/abilmansuromar/new_det/packages/receiver/src-tauri/target/debug/deps/foreign_types-32101e63c37c62cc.d: /Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foreign-types-0.5.0/src/lib.rs
+
+/Users/abilmansuromar/new_det/packages/receiver/src-tauri/target/debug/deps/libforeign_types-32101e63c37c62cc.rmeta: /Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foreign-types-0.5.0/src/lib.rs
+
+/Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foreign-types-0.5.0/src/lib.rs:

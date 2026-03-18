@@ -1,0 +1,1 @@
+/Users/abilmansuromar/new_det/packages/sender/src-tauri/target/debug/libdet_sender.rlib: /Users/abilmansuromar/new_det/packages/sender/src-tauri/build.rs /Users/abilmansuromar/new_det/packages/sender/src-tauri/capabilities /Users/abilmansuromar/new_det/packages/sender/src-tauri/src/lib.rs /Users/abilmansuromar/new_det/packages/sender/src-tauri/tauri.conf.json

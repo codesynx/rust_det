@@ -1,0 +1,8 @@
+/Users/abilmansuromar/new_det/packages/sender/src-tauri/target/debug/deps/deranged-351a7aeeb78284e2.d: /Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deranged-0.5.8/src/lib.rs /Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deranged-0.5.8/src/unsafe_wrapper.rs
+
+/Users/abilmansuromar/new_det/packages/sender/src-tauri/target/debug/deps/libderanged-351a7aeeb78284e2.rlib: /Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deranged-0.5.8/src/lib.rs /Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deranged-0.5.8/src/unsafe_wrapper.rs
+
+/Users/abilmansuromar/new_det/packages/sender/src-tauri/target/debug/deps/libderanged-351a7aeeb78284e2.rmeta: /Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deranged-0.5.8/src/lib.rs /Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deranged-0.5.8/src/unsafe_wrapper.rs
+
+/Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deranged-0.5.8/src/lib.rs:
+/Users/abilmansuromar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deranged-0.5.8/src/unsafe_wrapper.rs:
